@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Reyl Lite v1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-02-03 10:24+0200\n"
+"Last-Translator: admin <dyba03@yandex.ua>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ reyl-lite
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ошибка 404: страница не найдена."
+
+# @ reyl-lite
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже, что запрошенная вами страница не существует. Попробуйте использовать функцию поиска."
+
+# @ reyl-lite
+#: 404.php:39
+msgid "Most Used Categories"
+msgstr "Популярные рубрики"
+
+# @ reyl-lite
+#. translators: %1$s: smiley
+#: 404.php:60
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Архив за месяц: %1$s"
+
+# @ reyl-lite
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один комментарий на &ldquo;%2$s&rdquo;"
+msgstr[1] "Комментаривев: %1$s на &ldquo;%2$s&rdquo;"
+
+# @ reyl-lite
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ reyl-lite
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+# @ reyl-lite
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+# @ reyl-lite
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+# @ reyl-lite
+#: comments.php:91
+msgid "Comment"
+msgstr "Комментарий"
+
+# @ reyl-lite
+#: comments.php:103
+msgid "Name"
+msgstr "Имя"
+
+# @ reyl-lite
+#: comments.php:112
+msgid "Email"
+msgstr "Почта"
+
+# @ reyl-lite
+#: comments.php:121
+msgid "Website"
+msgstr "Сайт"
+
+# @ reyl-lite
+#: footer.php:25
+msgid "Powered by "
+msgstr ""
+
+# @ reyl-lite
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr ""
+
+# @ reyl-lite
+#: footer.php:25
+msgid "WordPress"
+msgstr ""
+
+# @ reyl-lite
+#: footer.php:25
+msgid "Reyl Lite designed by "
+msgstr ""
+
+# @ reyl-lite
+#: footer.php:25
+msgid "https://www.quemalabs.com/"
+msgstr ""
+
+# @ reyl-lite
+#: footer.php:25
+msgid "Quema Labs"
+msgstr ""
+
+# @ reyl-lite
+#: functions.php:52
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+# @ reyl-lite
+#: functions.php:53
+msgid "Social Menu"
+msgstr "Социальные кнопки"
+
+# @ reyl-lite
+#: inc/customizer.php:79
+msgid "More Themes"
+msgstr ""
+
+# @ reyl-lite
+#: inc/extras.php:87
+msgid "Read more"
+msgstr "Читать полностью"
+
+# @ reyl-lite
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:36 inc/template-tags.php:43
+msgid ", "
+msgstr ""
+
+# @ reyl-lite
+#: inc/template-tags.php:45
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s "
+
+# @ reyl-lite
+#: inc/template-tags.php:53
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "автор: %s"
+
+# @ reyl-lite
+#: inc/template-tags.php:61
+msgid "Leave a comment"
+msgstr " Оставить комментарий"
+
+# @ reyl-lite
+#: inc/template-tags.php:61
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+# @ reyl-lite
+#: inc/template-tags.php:61
+msgid "% Comments"
+msgstr "Комментариев: %"
+
+# @ reyl-lite
+#: inc/theme-functions/wp_bootstrap_navwalker.php:197
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+# @ reyl-lite
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ reyl-lite
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ reyl-lite
+#: template-parts/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы создать свою первую запись? <a href=\"%1$s\">Начните сейчас</a>."
+
+# @ reyl-lite
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не найдено. Пожалуйста, попробуйте еще раз с другими ключевыми словами."
+
+# @ reyl-lite
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Нам не удалось найти то, что вы ищите. Попробуйте воспользоваться поиском."
+
+# @ reyl-lite
+#: template-parts/content-page.php:22 template-parts/content-single.php:36
+#: template-parts/content.php:37
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ reyl-lite
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+# @ reyl-lite
+#: template-parts/pagination.php:11
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+# @ reyl-lite
+#: template-parts/pagination.php:12
+msgid "Next page"
+msgstr "Следующая страница"
